@@ -1,2 +1,2 @@
-# imgui-desktop-app-ragebot
+# Imgui desktop application
  
